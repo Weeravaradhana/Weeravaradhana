@@ -14,15 +14,17 @@
 ![Dynamic GitHub metrics](https://github-readme-stats.vercel.app/api?username=Weeravaradhana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 ![Dynamic languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weeravaradhana&layout=compact&theme=tokyonight&hide_border=true)
 
+
+## 🐍 My GitHub Contributions
+
 <div align="center">
-  <a href="https://github.com/Weeravaradhana">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Weeravaradhana&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true"
-      alt="GitHub Activity Graph"
-      width="100%"
-    />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/Weeravaradhana/Weeravaradhana/output/github-snake.svg"
+    alt="GitHub Contribution Snake Animation"
+    width="100%"
+  />
 </div>
+
 
 </div>
 
