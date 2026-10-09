@@ -44,7 +44,7 @@
 
 </div>
 
-### 🛰️ CURRENT GITHUB SIGNAL
+###  CURRENT GITHUB SIGNAL
 
 <div align="center">
 
