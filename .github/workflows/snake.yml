@@ -14,17 +14,32 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate animated snake
+      - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Weeravaradhana
           outputs: |
             dist/github-snake.svg?palette=github-dark
 
-      - name: Publish snake animation
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
+      - name: Publish Snake to Output Branch
         env:
-          GITHUB_TOKEN: $&#123;&#123; secrets.GITHUB_TOKEN &#125;&#125;
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git clone \
+            "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" \
+            publish
+
+          cd publish
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git checkout --orphan output-temp
+          git rm -rf . || true
+
+          cp ../dist/github-snake.svg ./github-snake.svg
+
+          git add github-snake.svg
+          git commit -m "chore: update contribution snake"
+
+          git push origin HEAD:output --force
