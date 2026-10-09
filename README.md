@@ -10,7 +10,6 @@
 
 <div align="center">
 
-### ⚡ LIVE ENGINEERING DASHBOARD
 
 ![Dynamic GitHub metrics](https://github-readme-stats.vercel.app/api?username=Weeravaradhana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
 ![Dynamic languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weeravaradhana&layout=compact&theme=tokyonight&hide_border=true)
