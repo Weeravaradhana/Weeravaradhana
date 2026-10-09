@@ -15,7 +15,7 @@
 ![Dynamic languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weeravaradhana&layout=compact&theme=tokyonight&hide_border=true)
 
 
-## 🐍 My GitHub Contributions
+##  My GitHub Contributions
 
 <div align="center">
   <img
@@ -28,7 +28,7 @@
 
 </div>
 
-### 🌀 TECH STACK IN MOTION
+###  TECH STACK IN MOTION
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 </div>
 
-### 🚀 PROJECT STREAM
+###  PROJECT STREAM
 
 <div align="center">
 
