@@ -9,23 +9,33 @@
 
 </div>
 
-<div align="center">
+## GITHUB DEVELOPER STATISTICS
 
-## GitHub Statistics
+<div align="center">
 
 <img
   src="assets/github-stats.svg"
-  alt="Dynamic GitHub Metrics"
-  height="210"
+  alt="GitHub Developer Statistics"
+  width="780"
 />
+
+</div>
+
+## PROGRAMMING LANGUAGES
+
+<div align="center">
 
 <img
   src="assets/top-languages.svg"
-  alt="Dynamic Programming Languages"
-  height="315"
+  alt="Top Programming Languages"
+  width="780"
 />
 
-## My GitHub Contributions
+</div>
+
+## MY GITHUB CONTRIBUTIONS
+
+<div align="center">
 
 <img
   src="https://raw.githubusercontent.com/Weeravaradhana/Weeravaradhana/output/github-snake.svg"
@@ -65,4 +75,4 @@
 
 </div>
 
-<sub>Live project and activity panels are regenerated automatically by GitHub Actions. Public GitHub data only. Animations may be reduced by viewer accessibility settings or SVG rendering restrictions.</sub>
+<sub>GitHub statistics are generated automatically using GitHub Actions. Public repository data and contribution metrics are refreshed daily.</sub>
