@@ -1,3 +1,4 @@
+
 <div align="center">
 
 ![Animated header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071426,50:176b91,100:00d4ff&text=WEERAVARADHANA&fontColor=ffffff&fontSize=48&animation=twinkling&fontAlignY=39&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20BACKEND%20%E2%80%A2%20DEVOPS&descAlignY=61&descSize=17)
@@ -10,25 +11,31 @@
 
 <div align="center">
 
+## GitHub Statistics
 
-![Dynamic GitHub metrics](https://github-readme-stats.vercel.app/api?username=Weeravaradhana&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
-![Dynamic languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Weeravaradhana&layout=compact&theme=tokyonight&hide_border=true)
+<img
+  src="assets/github-stats.svg"
+  alt="Dynamic GitHub Metrics"
+  height="210"
+/>
 
+<img
+  src="assets/top-languages.svg"
+  alt="Dynamic Programming Languages"
+  height="315"
+/>
 
-##  My GitHub Contributions
+## My GitHub Contributions
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Weeravaradhana/Weeravaradhana/output/github-snake.svg"
-    alt="GitHub Contribution Snake Animation"
-    width="100%"
-  />
+<img
+  src="https://raw.githubusercontent.com/Weeravaradhana/Weeravaradhana/output/github-snake.svg"
+  alt="GitHub Contribution Snake Animation"
+  width="100%"
+/>
+
 </div>
 
-
-</div>
-
-###  TECH STACK IN MOTION
+### TECH STACK IN MOTION
 
 <div align="center">
 
@@ -36,7 +43,7 @@
 
 </div>
 
-###  PROJECT STREAM
+### PROJECT STREAM
 
 <div align="center">
 
@@ -44,7 +51,7 @@
 
 </div>
 
-###  CURRENT GITHUB SIGNAL
+### CURRENT GITHUB SIGNAL
 
 <div align="center">
 
